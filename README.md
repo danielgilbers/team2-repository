@@ -5,7 +5,7 @@ Dies ist die Projektseite der Brühler Stolperstein App!
 
 # Beschreibung
 [//]: # (Die Beschreibung eures Projekts)
-Beschreibung!!
+Mit der App kann man in Zukunft alle Brühler Stolpersteine zu besichtigen. Zu Fuß.
 
 # Teammitglieder
 - Daniel Gilbers
