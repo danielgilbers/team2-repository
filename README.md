@@ -4,6 +4,7 @@ Dies ist ein Test
 
 # Project Description
 [//]: # (Die Beschreibung eures Projekts)
+Beschreibung!!
 
 # How to Use the Project
 [//]: # (Welche Informationen muss ein Benutzer kennen? Z.B. URL)
