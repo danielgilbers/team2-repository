@@ -8,6 +8,15 @@ body {
     display: flex;
 }
 
+li {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+h1 {
+    margin: 0;
+}
 .flexbox-panel {
     width: 100%;
     display: flex;
