@@ -12,7 +12,7 @@ L.Control.Button = L.Control.extend({
         this.container = L.DomUtil.create('div');
         this.container.innerHTML =
         '<button class="btn btn-primary text-dark rounded-circle p-2 lh-1" type="button">'+
-        '<span class="material-symbols-outlined" style="font-variation-settings:\'FILL\' 1; font-size: 30px;">directions</span>'+
+        '<span class="material-symbols-outlined" style="font-variation-settings:\'FILL\' 0; font-size: 30px;">camera</span>'+
         '</button>';
 
         return this.container;
