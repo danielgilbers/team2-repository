@@ -12,6 +12,7 @@ if ("geolocation" in navigator) {
             maxZoom: 20,
             attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
         }).addTo(map)
+        var marker = L.marker([position.coords.latitude, position.coords.longitude]).addTo(map);
     });
 
 
