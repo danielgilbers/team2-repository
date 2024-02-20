@@ -27,4 +27,4 @@ L.control.button = function(opts) {
     return new L.Control.Button(opts);
 }
 
-L.control.button({ position: 'bottomright'}).addTo(map);
+// L.control.button({ position: 'bottomright'}).addTo(map);
