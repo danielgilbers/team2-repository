@@ -39,7 +39,7 @@
 
         </div>
         <div class="flex-grow-1" id="map"></div>
-        <div class="d-none">
+        <div class="d-none" id="cam">
             <a-scene vr-mode-ui='enabled: false' arjs='sourceType: webcam; videoTexture: true; debugUIEnabled: false'
                 renderer='antialias: true; alpha: true'>
                 <a-camera gps-new-camera='gpsMinDistance: 5'></a-camera>
@@ -55,7 +55,9 @@
     <script>
         function mySwitch() {
             let map = document.getElementById('map');
+            let cam = document.getElementById('cam');
             map.classList.toggle('d-none');
+            cam.classList.toggle('d-none');
         }
     </script>
 
