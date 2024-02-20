@@ -32,7 +32,8 @@ h1 {
     height: 100%;
 }
 
-.map {
+.map,
+.cam{
     grid-area: map;
 }
 
